@@ -1,0 +1,49 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.logo {
+    margin-top: 20px;
+}
+
+.super-heading {
+       font-weight: 220;
+       font-size: 60px;
+}
+
+.name {
+    color: #2d3c49;
+}
+
+sub-heading {
+    color:#7d97ad;
+    font-size: 25px;
+}
+
+.subtitle {
+    font-size: 30px;
+}
+
+.links {
+    font-size: 15px;
+}
+
+hr {
+    height: 3px;
+    color: #7d97ad;
+    background-color: #7d97ad;
+}
+
+.image {
+    width: 549px;
+    max-width: 100%;
+}
+
+@media screen and (max-width: 992px) {
+    body {
+    background-color: #f7a5f0;
+    }
+}

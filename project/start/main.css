@@ -1,0 +1,51 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+  background-color: ##f7a5f0;
+}
+
+
+.logo {
+    margin-top: 20px;
+
+}
+.super-heading {
+       font-weight: 100;
+       font-size: 60px;
+}
+
+.name {
+    color: #2d3c49;
+
+}
+
+sub-heading {
+    color:#7d97ad;
+    font-size: 25px;
+
+}
+
+.subtitle {
+    font-size: 30px;
+}
+
+.links {
+    font-size: 10px;
+}
+hr {
+    height: 3px;
+    border: none;
+    color: #333;
+    background-color: #333;"
+}
+.image {
+    width: 549px;
+    max-width: 100%;
+}
+@media screen and (max-width: 992px) {
+    body {
+        background-color: #3b8a83;
+    }
+}
